@@ -1,2 +1,0 @@
-# Indicorp
-### Useing FlexBox Technology
