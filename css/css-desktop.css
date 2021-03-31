@@ -21,7 +21,7 @@ header {
 }
 .navbar {
 	display: flex;
-	width: 1330px;
+	width: 1050px;
 	height: 105px;
 	align-items: center;
 	z-index: 1;
@@ -30,7 +30,6 @@ header {
 .navbar-logo {
 	width: 150px;
 	height: 30px;
-	margin-left: 136px;
 
 }
 span.logo {
@@ -38,7 +37,7 @@ span.logo {
 	font-weight: 700;
 }
 nav {
-	width: 600px;
+	width: 400px;
 	height: 30px;
 	word-spacing: 21px;
 	margin-left: 100px;
@@ -52,13 +51,13 @@ nav a {
 	font-weight: 600;
 }
 .vector {
-	margin-left: 660px;
+	margin-left: 500px;
 }
 
 div.container {
 	display: flex;
 	flex-direction: column;
-	width: 1046px;
+	width: 1050px;
 	height: 788px;
 	z-index: 1;
 }
@@ -154,7 +153,7 @@ div.features {
 	align-items: center;
 }
 .features-row-one {
-	width: 864px;
+	width: 800px;
 	height: 107px;
 	margin: 80px 0 50px;
 	display: flex;
